@@ -3,7 +3,6 @@
 #### Me chamo Caio Lima, e aqui estão meus projetos em programação
 
 - 🔭 Estudo Java com framework Spring
-- 🌱 Sou aluno do BootCamp Java Web FullStack da Generation Brasil
 - 🤔 Procuro sempre aprender sobre padrão de projetos e clean code
 - 🎩 Foco em criar soluções pensando em todas as etapas do sistema
 
